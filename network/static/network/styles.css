@@ -1,0 +1,13 @@
+#new_post_text{
+    font-style: normal;
+}
+
+.post{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.no-hover-underline:hover {
+    text-decoration: none;
+  }
